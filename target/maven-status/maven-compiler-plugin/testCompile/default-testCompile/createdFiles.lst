@@ -1,9 +1,0 @@
-test/TestHuffmanAllocator.class
-test/TestBZip2OutputStream$1.class
-test/TestBZip2HuffmanStageDecoder.class
-test/TestBZip2BlockDecompressor.class
-test/TestBZip2OutputStream$2.class
-test/TestBZip2DivSufSort.class
-test/TestBZip2BitOutputStream.class
-test/TestBZip2BitInputStream.class
-test/TestBZip2OutputStream.class
