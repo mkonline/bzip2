@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/41/trunk/jbzip2/src/test
+END
+TestBZip2DivSufSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/jbzip2/src/test/TestBZip2DivSufSort.java
+END
+TestBZip2BitInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/41/trunk/jbzip2/src/test/TestBZip2BitInputStream.java
+END
+TestBZip2BitOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/41/trunk/jbzip2/src/test/TestBZip2BitOutputStream.java
+END
+TestBZip2OutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/28/trunk/jbzip2/src/test/TestBZip2OutputStream.java
+END
+TestHuffmanAllocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/jbzip2/src/test/TestHuffmanAllocator.java
+END
+TestBZip2HuffmanStageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/41/trunk/jbzip2/src/test/TestBZip2HuffmanStageDecoder.java
+END
+TestBZip2BlockDecompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/41/trunk/jbzip2/src/test/TestBZip2BlockDecompressor.java
+END

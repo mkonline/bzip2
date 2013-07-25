@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/43/trunk/jbzip2/src/org/itadaki/bzip2
+END
+BZip2HuffmanStageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/40/trunk/jbzip2/src/org/itadaki/bzip2/BZip2HuffmanStageDecoder.java
+END
+BZip2Exception.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/jbzip2/src/org/itadaki/bzip2/BZip2Exception.java
+END
+CRC32.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/22/trunk/jbzip2/src/org/itadaki/bzip2/CRC32.java
+END
+BZip2BlockCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/40/trunk/jbzip2/src/org/itadaki/bzip2/BZip2BlockCompressor.java
+END
+BZip2DivSufSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/trunk/jbzip2/src/org/itadaki/bzip2/BZip2DivSufSort.java
+END
+BZip2HuffmanStageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/43/trunk/jbzip2/src/org/itadaki/bzip2/BZip2HuffmanStageEncoder.java
+END
+BZip2BitInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/40/trunk/jbzip2/src/org/itadaki/bzip2/BZip2BitInputStream.java
+END
+MoveToFront.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/22/trunk/jbzip2/src/org/itadaki/bzip2/MoveToFront.java
+END
+BZip2BitOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/40/trunk/jbzip2/src/org/itadaki/bzip2/BZip2BitOutputStream.java
+END
+BZip2InputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/jbzip2/src/org/itadaki/bzip2/BZip2InputStream.java
+END
+BZip2Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/35/trunk/jbzip2/src/org/itadaki/bzip2/BZip2Constants.java
+END
+BZip2OutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/40/trunk/jbzip2/src/org/itadaki/bzip2/BZip2OutputStream.java
+END
+HuffmanAllocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/42/trunk/jbzip2/src/org/itadaki/bzip2/HuffmanAllocator.java
+END
+BZip2BlockDecompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/40/trunk/jbzip2/src/org/itadaki/bzip2/BZip2BlockDecompressor.java
+END
+BZip2MTFAndRLE2StageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/39/trunk/jbzip2/src/org/itadaki/bzip2/BZip2MTFAndRLE2StageEncoder.java
+END

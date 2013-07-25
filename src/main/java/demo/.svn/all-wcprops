@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/30/trunk/jbzip2/src/demo
+END
+Decompress.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/22/trunk/jbzip2/src/demo/Decompress.java
+END
+RoundTrip.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/30/trunk/jbzip2/src/demo/RoundTrip.java
+END
+Compress.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/22/trunk/jbzip2/src/demo/Compress.java
+END
